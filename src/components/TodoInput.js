@@ -19,7 +19,6 @@ export default class TodoInput extends Component {
               value={item}
               onChange={handleChange}
             />
-            
           </div>
           <button
             type="submit"
